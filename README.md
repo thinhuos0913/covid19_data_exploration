@@ -1,2 +1,5 @@
-# covid19_data_exploration
-Use SQL Server and Power BI to explore global COVID 19 data.
+# Project Description
+- Retrieve data related to COVID-19 from https://ourworldindata.org/covid-deaths
+- Manipulate, organize, and reformat data in Excel spreadsheet.
+- Import these csv files into SQL Server to explore data using SQL Query.
+- Connect SQL Server database to Power BI for plotting some trends and charts.
